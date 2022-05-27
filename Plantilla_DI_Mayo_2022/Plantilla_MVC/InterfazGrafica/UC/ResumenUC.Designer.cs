@@ -46,7 +46,7 @@ namespace InterfazGrafica.UC
             this.chart_Pedidos.Location = new System.Drawing.Point(0, 3);
             this.chart_Pedidos.Name = "chart_Pedidos";
             series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series1.Legend = "Legend1";
             series1.Name = "Gastos Envio";
             series1.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.DateTime;

@@ -67,7 +67,7 @@ namespace InterfazGrafica.Formularios
             panel_BaseDashboard.Controls.Remove(this.bienvenidaUC);
 
             // TODO: crear un UC ClientesUC 
-
+            clientesUC = new ClientesUC();
 
             // linea para llamar al metodo delegado
             this.clientesUC.ClienteSeleccionado += new ClientesUC.ClickButton(ClientesUC_ClienteSeleccionado);
@@ -108,8 +108,9 @@ namespace InterfazGrafica.Formularios
         private void but_Resumen_Click(object sender, EventArgs e)
         {
             // TODO: crea un UC tipo ResumenUC e insertalo en el Dashboard
-
-
+            panel_BaseDashboard.Controls.Clear();
+            resumenUC = new ResumenUC(this.listaPedidosUC.ListaPedidos);
+            panel_BaseDashboard.Controls.Add(this.resumenUC);
         }
 
 

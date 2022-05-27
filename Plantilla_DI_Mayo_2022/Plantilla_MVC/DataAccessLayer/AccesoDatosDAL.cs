@@ -16,7 +16,7 @@ namespace DataAccessLayer
         /// <summary>
         ///  Cadena de conexion
         /// </summary>
-        private static SqlConnection conexion = new SqlConnection("Data Source=localhost;Initial Catalog=Northwind;User ID=;Password=");
+        private static SqlConnection conexion = new SqlConnection("Data Source=localhost;Initial Catalog=Northwind;User ID=usuarioDI;Password=1234");
 
         /// <summary>
         /// lista de clientes
@@ -86,7 +86,12 @@ namespace DataAccessLayer
                 while (dataReader.Read())
                 {
                     // TODO: parsea los datos a la lista de ClientesDTO (campos 0 y 1 de la BD)
+                    
+                    string idCliente = dataReader.GetValue(0).ToString();
+                    string nombreCliente = dataReader.GetValue(1).ToString();
+                    ClienteDTO cliente = new ClienteDTO(idCliente,nombreCliente);
 
+                    listaClientes.Add(cliente);
                 }
 
                 dataReader.Close();

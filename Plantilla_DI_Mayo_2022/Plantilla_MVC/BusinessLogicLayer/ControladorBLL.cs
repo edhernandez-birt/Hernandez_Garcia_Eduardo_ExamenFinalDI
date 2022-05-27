@@ -31,7 +31,12 @@ namespace BusinessLogicLayer
         public static List<ClienteDTO> PedirListaClientes()
         {
             // TODO: llama al metodo que pide la lista de clientes
-            throw new Exception();
+            //Llamamos al DAL
+            return AccesoDatosDAL.ListadoClientesNorthWind();
+
+              //  throw new Exception(e.Message);
+          
+            
         }
 
 

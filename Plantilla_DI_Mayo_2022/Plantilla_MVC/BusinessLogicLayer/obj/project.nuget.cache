@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lwXboVO+/E9OP0EoxW+RBmdF2DFjRhmt8s81Ei62FBeuAOA4czyJKMwywtiQLN3v1pq5nXM4ETNZyPUpt9e+tw==",
+  "dgSpecHash": "FEyVyN3hmKHb+I+IqcH6VVs/OKACOOQnbUqtysapDfhOoOtXA25vOionxdEKGV8HlYVq2F1b4gyE6IX0DyHg3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Solucion_DI_Mayo_2022\\Plantilla_MVC\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ExamenDI\\Hernandez_Garcia_Eduardo_ExamenFinalDI\\Plantilla_DI_Mayo_2022\\Plantilla_MVC\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

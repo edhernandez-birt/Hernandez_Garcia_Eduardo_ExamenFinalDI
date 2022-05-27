@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mx203WTDeJxAHcqkBwZcDmu1h0deua6j3xpp47O+8BYrJ7/7vQe1fAUb0iGz5cglZCAQHMfcgmDL86hO5X0t/Q==",
+  "dgSpecHash": "snhEdBXALdYr1iI0ddhYoQQNndcYbzSF21ToZH+BEbYf7FImPK7QBtTNXBLcphheuEHvBZGLzaHPmzHw0bHruA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Solucion_DI_Mayo_2022\\Plantilla_MVC\\ConsolePruebas\\ConsolePruebas.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ExamenDI\\Hernandez_Garcia_Eduardo_ExamenFinalDI\\Plantilla_DI_Mayo_2022\\Plantilla_MVC\\ConsolePruebas\\ConsolePruebas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

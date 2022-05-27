@@ -42,9 +42,12 @@ namespace InterfazGrafica.UC
             InitializeComponent();
 
             // TODO: Pedir la lista de clientes a la BD 
+            listaClientes = ControladorBLL.PedirListaClientes();
 
             // TODO: cargar la lista de clientes en el combobox (la lista la teneis como atributo en este UC) 
-
+            comboBox_Clientes.DataSource = listaClientes;
+            comboBox_Clientes.DisplayMember = "nombreCliente";
+            comboBox_Clientes.ValueMember = "iDCliente";
         }
         #endregion
 

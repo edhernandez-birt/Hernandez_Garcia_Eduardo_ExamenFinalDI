@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIOkFhgSlvBgmwOyfdzKcIgmHxv+CdbZUvXtB8MlXdezT8oGopYcGNwiKZbeGnBaj2mXGs1SE2g1M60J4+AI4w==",
+  "dgSpecHash": "elgpzgLbhUd3ibqTviMwNZCodbzH7pLLD2mlyjeQCHcXfajgrZpDJHiLedOndMO9BJnBwTp6RiT25Y4os16skg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Solucion_DI_Mayo_2022\\Plantilla_MVC\\ObjetosTransferencia\\ObjetosTransferencia.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ExamenDI\\Hernandez_Garcia_Eduardo_ExamenFinalDI\\Plantilla_DI_Mayo_2022\\Plantilla_MVC\\ObjetosTransferencia\\ObjetosTransferencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

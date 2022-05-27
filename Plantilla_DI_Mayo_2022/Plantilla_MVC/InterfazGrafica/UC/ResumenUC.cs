@@ -18,11 +18,24 @@ namespace InterfazGrafica.UC
 
         public ResumenUC(List<PedidoDTO> listaPedidos)
         {
-            InitializeComponent();
-
             // TODO: Añade los campos que se piden al eje X e Y
-            
+            List<DateTime> ejeX = new List<DateTime>();
+            List<double> ejeY = new List<double>();
+            InitializeComponent();
+            for(int i = 0; i<listaPedidos.Count;i++)
+            {
+                ejeX.Add(listaPedidos[i].FechaPedido);
+                ejeY.Add(listaPedidos[i].PrecioEnvio);
+            }
+            chart_Pedidos.Series["Gastos Envio"].Points.DataBindXY(ejeX.ToArray(), ejeY.ToArray());
+
             // TODO: suma los gastos
+            double suma = 0;
+            foreach (double precio in ejeY)
+            {
+                suma += precio;
+            }
+            lab_SumaEnvio.Text += " "+suma.ToString();
         }
 
 

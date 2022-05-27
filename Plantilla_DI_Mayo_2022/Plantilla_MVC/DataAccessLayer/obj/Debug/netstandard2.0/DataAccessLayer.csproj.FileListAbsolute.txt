@@ -83,3 +83,16 @@ C:\Users\admin\Desktop\Solucion_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\D
 C:\Users\admin\Desktop\Solucion_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
 C:\Users\admin\Desktop\Solucion_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
 C:\Users\admin\Desktop\Solucion_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\bin\Debug\netstandard2.0\ObjetosTransferencia.dll
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\bin\Debug\netstandard2.0\ObjetosTransferencia.pdb
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\admin\Desktop\ExamenDI\Hernandez_Garcia_Eduardo_ExamenFinalDI\Plantilla_DI_Mayo_2022\Plantilla_MVC\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
